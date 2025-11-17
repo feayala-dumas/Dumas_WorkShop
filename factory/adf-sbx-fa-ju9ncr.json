@@ -1,0 +1,9 @@
+{
+	"name": "adf-sbx-fa-ju9ncr",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "101884fa-d30d-40c3-8f66-95e911dc8d53",
+		"tenantId": "0bed3809-908c-48ad-a052-a31d71fc8e7d"
+	}
+}
