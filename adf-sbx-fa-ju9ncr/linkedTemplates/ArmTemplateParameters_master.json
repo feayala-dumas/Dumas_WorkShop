@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-sbx-fa-ju9ncr"
+		},
+		"LS_BlobStorage_connectionString": {
+			"value": ""
+		},
+		"LS_KeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://kv-sbx-fa-ju9ncr.vault.azure.net/"
+		},
+		"LS_SQL_Database_properties_typeProperties_server": {
+			"value": "sql-sbx-fa-ju9ncr.database.windows.net"
+		},
+		"LS_SQL_Database_properties_typeProperties_database": {
+			"value": "sqldb-sbx-fa-01"
+		},
+		"LS_SQL_Database_properties_typeProperties_userName": {
+			"value": "sqladmin"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
